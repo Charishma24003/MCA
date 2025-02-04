@@ -1,4 +1,4 @@
-11. Web application to illustrate scriptlets (Display Date, odd & even numbers)
+12. Web application to illustrate scriptlets (Display Date, odd & even numbers)
 
 
 <%@ page language="java" contentType="text/html; %>
